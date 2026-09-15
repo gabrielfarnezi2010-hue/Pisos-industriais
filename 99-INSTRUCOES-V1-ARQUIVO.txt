@@ -1,0 +1,187 @@
+MIRANDA PISOS INDUSTRIAIS — ASSET PACK V1
+Direção criativa: DA BASE AO DESEMPENHO
+
+IMPORTANTE
+==========
+Este pacote foi organizado para implementação inicial do site.
+
+PASTA 01-brand
+--------------
+logo-miranda-reference.jpg
+Use como referência visual da marca e para extrair:
+- verde petróleo;
+- cobre;
+- geometria diagonal do "M".
+
+Se for possível obter o arquivo original do logo (SVG/PNG transparente), substitua esta referência.
+
+PASTA 02-publish-candidates
+---------------------------
+Estes são os melhores recortes dos materiais reais fornecidos para uma primeira versão.
+
+hero-01-base-vs-superficie-portrait.jpg
+USO PRIORITÁRIO:
+- hero mobile;
+- poster do hero;
+- composição de transformação.
+Mostra a ideia central do projeto: estrutura/base -> superfície executada.
+
+hero-02-base-vs-superficie-wide.jpg
+USO PRIORITÁRIO:
+- hero desktop;
+- background para M-CUT;
+- primeira transição do site.
+A linha entre base preparada e concreto deve inspirar o reveal.
+
+processo-01-base-preparada.jpg
+USO:
+- etapa 01 / BASE;
+- seção de processo;
+- detalhe editorial.
+
+resultado-01-piso-finalizado.jpg
+USO:
+- etapa final / SUPERFÍCIE;
+- galeria;
+- seção de resultado.
+
+resultado-02-textura-piso.jpg
+USO:
+- macro/textura;
+- seção PERFORMANCE;
+- background discreto.
+Evitar usar como imagem hero principal.
+
+resultado-03-galpao-finalizado.jpg
+USO:
+- seção ESCALA;
+- grande imagem editorial;
+- galeria de projetos.
+
+OBSERVAÇÃO:
+Os arquivos vieram de screenshots e foram recortados para retirar a maior parte da interface do celular.
+Se houver arquivos originais das fotos/vídeos, prefira SEMPRE os originais.
+
+PASTA 03-internal-reference-only
+--------------------------------
+NÃO PUBLICAR estes arquivos no site final.
+
+Eles contêm interface de Instagram e/ou marca/identidade de terceiros.
+Use APENAS como referência interna de:
+- enquadramento;
+- processo;
+- sequência narrativa;
+- movimento;
+- composição;
+- entendimento do serviço.
+
+Sequência de processo a extrair conceitualmente:
+01 BASE
+02 CONCRETAGEM
+03 NIVELAMENTO
+04 ACABAMENTO MECÂNICO
+05 SUPERFÍCIE
+
+O Codex NÃO deve:
+- remover marcas de terceiros para publicar;
+- apresentar material externo como obra própria da Miranda;
+- inventar obras;
+- inventar números;
+- inventar certificações;
+- inventar clientes.
+
+HERO
+====
+Conceito:
+DA BASE AO DESEMPENHO.
+
+Headline:
+DA BASE AO
+DESEMPENHO.
+
+Texto de apoio:
+Execução de pisos para indústrias, comércios, residências e grandes áreas
+em Itamarandiba e região.
+
+CTA:
+SOLICITAR ORÇAMENTO
+
+Secundário:
+VER O PROCESSO
+
+Use hero-02 no desktop e hero-01 no mobile como ponto de partida.
+Criar um reveal diagonal inspirado na geometria do M da marca (M-CUT),
+fazendo a superfície parecer surgir sobre a base.
+
+SIGNATURE MOMENT 01
+===================
+Seção sticky:
+UMA SUPERFÍCIE NÃO COMEÇA NA SUPERFÍCIE.
+
+Etapas:
+01 / BASE
+02 / CONCRETAGEM
+03 / NIVELAMENTO
+04 / ACABAMENTO
+05 / SUPERFÍCIE
+
+Use os arquivos de referência interna para entender cada etapa.
+Como eles não podem ser publicados, implemente a estrutura pronta
+para substituição por vídeos/fotos originais quando chegarem.
+
+SIGNATURE MOMENT 02
+===================
+Tema: acabamento mecanizado / desempenadeira.
+
+Use processo-ref-04 e processo-ref-05 SOMENTE como referência.
+Criar visual de superfície bruta -> superfície nivelada/acabada.
+Não publicar screenshot nem marca de terceiro.
+
+SEÇÃO ESCALA
+============
+Use resultado-03-galpao-finalizado.jpg como grande imagem.
+
+Headline sugerida:
+DO USO DIÁRIO ÀS GRANDES ÁREAS.
+
+PALETA
+======
+Extrair do logo:
+- deep petroleum green
+- oxidized copper
+- mineral off-white
+- concrete gray
+- graphite
+
+Cobre deve ser acento raro, não cor dominante.
+
+MOTION
+======
+Vocabulário:
+REVEAL
+FILL
+LEVEL
+SETTLE
+
+Evitar:
+- bounce;
+- neon;
+- glassmorphism;
+- partículas aleatórias;
+- parallax exagerado;
+- efeitos sem significado.
+
+WHATSAPP
+========
++55 38 99823-0192
+
+REGIÃO
+======
+Itamarandiba e região — MG
+
+REGRA FINAL
+===========
+Antes de codar, inspecione todos os assets.
+Use os arquivos publish-candidates no site.
+Use internal-reference-only apenas para direção e planejamento.
+Prepare o código para troca fácil por arquivos originais futuros.
