@@ -1,0 +1,21 @@
+Antes de alterar qualquer arquivo, leia integralmente estes documentos no workspace:
+
+1. 00-LEIA-ME-PRIMEIRO.md
+2. 03-MAPA-DE-ASSETS.md
+3. 02-PROMPT-MESTRE-CODEX.md
+
+Depois inspecione visualmente TODOS os assets em /assets e respeite rigorosamente a diferença entre:
+
+- /assets/02-real-candidates
+- /assets/03-ai-concept
+- /assets/04-reference-only
+
+IMPORTANTE:
+- arquivos de 04-reference-only são SOMENTE referência e não podem aparecer no site final;
+- arquivos de 03-ai-concept podem ser usados como arte conceitual/hero/textura, mas jamais apresentados como obra real da Miranda;
+- galeria/cases/prova de execução devem priorizar material real de 02-real-candidates;
+- não invente fatos, clientes, números, certificações ou obras.
+
+Consulte e aplique as skills instaladas relevantes, especialmente UI/UX Pro Max, frontend/design, motion/GSAP, accessibility e performance, caso estejam disponíveis. Skills são ferramentas; a direção criativa deste pacote tem prioridade.
+
+Depois faça uma inspeção curta do workspace e prossiga para implementação da V1 seguindo o Prompt Mestre. Não pare para me explicar uma estratégia enorme. Só peça confirmação se existir um bloqueio realmente crítico.
